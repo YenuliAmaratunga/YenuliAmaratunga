@@ -35,33 +35,36 @@ I'm a final-year **Software Engineering Undergraduate** at **SLIIT**, driven by 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 **🍔 Food Delivery Microservices App**
-*A scalable food delivery platform similar to Uber Eats.*
-- **Stack:** MERN Stack, Docker Compose
-- **Highlights:** Microservices architecture, Restaurant & Admin Dashboards.
+*Scalable delivery platform (MERN, Docker).*
 
 **🎣 Illegal Fishing & Hazard Reporting (Mobile)**
-*A React Native app for maritime safety and reporting.*
-- **Stack:** React Native, Expo, Node.js, MongoDB
-- **Highlights:** Real-time GPS tracking, SOS features, Media reporting.
+*Marine safety app with GPS tracking (React Native, Expo).*
 
 **💸 Personal Financial Tracker API**
-*Secure backend for financial management.*
-- **Stack:** Node.js, Express, MongoDB, JWT
-- **Highlights:** Role-based access control, Multi-currency support.
+*Secure backend with JWT authentication (Node.js, Express).*
+
+**🐄 Online Farm Management System**
+*Animal records and treatment management (MERN Stack).*
+
+**🎮 Online Gaming System**
+*Java-based gaming platform with interactive UI (Java).*
+
+**🎬 Movie Booking System**
+*Dynamic seat reservation system (PHP, JavaScript, MySQL).*
 
 ---
 
 ### 📈 GitHub Stats
 
-![Yenuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Yenuli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YenuliAmaratunga&show_icons=true&theme=radical&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YenuliAmaratunga&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yenuli-amaratunga-a292a32b5)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenuli-amaratunga-a292a32b5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yenulibeemansi@gmail.com)
